@@ -41,7 +41,13 @@ questions addressed in this course.
 
 The following books are required for this class:
 
-* 
+1. *Patriotic Games : Sporting Tradition in t...*
+2. *Carlisle vs. Army : Jim Thorpe, Dwight Eisenhower, Pop Warner, and the
+Forgotten Story of Football's Greatest Battle* (Random House, 2008).
+3. David Whiteford, *A Payroll to Meet : A Story of Greed, Corruption, and
+Football at SMU* (Univ of Nebraska Press, 2013).
+4. *Cheated : The UNC Scandal, the Education *
+
 
 All other readings will be available to the students electronically.
 
