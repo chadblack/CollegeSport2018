@@ -3,11 +3,13 @@ layout: page
 title: syllabus
 ---
 
-Introduction to Early Latin America
+The History of College Sports
 
-History 255/LAS 251 
+History 373
 
-TR 11:10-12:25
+TR 2:10-3:25
+
+Strong Hall, Room 2015
 
 Fall 2018
 
@@ -19,41 +21,27 @@ Fall 2018
 
 **Office:** 2627 Dunford Hall, 6th Floor
 
-**Office Hours:** Tuesday, 4:00-5:00, Wednesday, 3:00-4:00
+**Office Hours:** Tuesday, 4:00-5:00, Wednesday, 3:00-4:00, or by appointment.
 
-In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered
-or civilized the Americas. Sixty years later, in 1552, López de Gómara, the
-private secretary of Hernán Cortes, wrote, "The greatest event since the
-creation of the world (excluding the incarnation and death of Him who created
-it) is the discovery of the Indies \[i.e. Americas\]." He was, himself,
-a participant the conquest of Mexico. From the very beginning, not only the
-magnitude, but also the meaning of the Conquest of the Americas has been
-a point of controversy and acclaim. The history of Early Latin America,
-however, does not begin in October 1492. Indigenous bands and great
-civilizations inhabited North and South America for more than ten thousand
-years prior to the arrival of Europeans on the shores of Caribbean islands.
-Thus, in this class we will concentrate on the pre-Colombian period, the
-conquest period, and the ensuing three hundred years of Spanish (and to
-a limited extent) Portuguese rule. The lectures will move both chronologically
-and topically. We will concentrate on two key geographic areas of
-examination--- central Mexico, home to the highly structured pre-Columbian
-societies of the Maya and the Mexica, among many others, and later the center
-of Spanish control in its northern kingdoms as the Viceroyalty of New Spain;
-and, the central Andes, land of the Inca Empire and its subject polities (among
-others), and home of the Viceroyalty of Peru, the center of Spanish power in
-its southern kingdoms. Our class will cover a tremendous breadth of time and
-territory, and as such the lectures, readings, and discussion sections are
-designed to draw your critical attention to issues, including ethnicity,
-gender, slavery, culture, and power, as well as the institutions and structures
-that patterned native, African, and European experiences of Spanish and
-Portuguese imperialism. 
+The United States is unique in its blending of academia and "big time" athletics. Collegiate sport dates to the
+middle of the nineteenth century, when it was seen to offer discipline and health to young men tempted by
+leisure and illicit pastimes. Colleges established intercollegiate competition under the principles of
+"Amateurism," principles that have been a cause of tension and scandal ever since. This course will trace the
+history of collegiate sport and its relationships to both the University and the wider community. It examines the
+evolution (and in some respects the remarkable consistency) of university priorities in the era of "big-time"
+sports and considers the practical and moral implications of that evolution for both college athletes and the
+institutions that claim to serve them. The course readings and assignments provide the historical grounding
+needed to understand the conflicts at the heart of what the NCAA likes to call "the collegiate model of sport."
+Are college sports "good" for athletes? Are modern universities meeting their obligations to the students they
+recruit and admit? Given the historical trajectory of the big-time sport enterprise, is reform possible? If so, who
+is responsible for fixing what ails college sports? What corrections should be applied and when? These are the
+questions addressed in this course.
 
 # required readings
 
-The following book is required for this class:
+The following books are required for this class:
 
-* Matthew Restall and Kris Lane, *Latin America in Colonial Times* 2nd.
-Edition. (Cambridge University Press, 2018).
+* 
 
 All other readings will be available to the students electronically.
 
