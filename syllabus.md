@@ -3,25 +3,20 @@ layout: page
 title: syllabus
 ---
 
-The History of College Sports
+## **The History of College Sports**
 
-History 373
+History 373  
+TR 2:10-3:25  
+Strong Hall, Room 2015  
+Fall 2018  
 
-TR 2:10-3:25
-
-Strong Hall, Room 2015
-
-Fall 2018
 
 **Prof. Chad Black**
 
-**Email:** cblack6-at-utk.edu
-
-**Phone:** 974-9871
-
-**Office:** 2627 Dunford Hall, 6th Floor
-
-**Office Hours:** Tuesday, 4:00-5:00, Wednesday, 3:00-4:00, or by appointment.
+**Email:** cblack6-at-utk.edu  
+**Phone:** 974-9871  
+**Office:** 2627 Dunford Hall, 6th Floor  
+**Office Hours:** Tuesday, 4:00-5:00, Wednesday, 3:00-4:00, or by appointment.  
 
 The United States is unique in its blending of academia and "big time" athletics. Collegiate sport dates to the
 middle of the nineteenth century, when it was seen to offer discipline and health to young men tempted by
@@ -41,12 +36,15 @@ questions addressed in this course.
 
 The following books are required for this class:
 
-1. *Patriotic Games : Sporting Tradition in t...*
-2. *Carlisle vs. Army : Jim Thorpe, Dwight Eisenhower, Pop Warner, and the
+1. Stephen W. Pope, *Patriotic Games : Sporting Tradition in the American
+Imagination, 1876-1926* 2nd Edition (University of Tennessee Press, 2007).
+2. Lars Anderson, *Carlisle vs. Army : Jim Thorpe, Dwight Eisenhower, Pop Warner, and the
 Forgotten Story of Football's Greatest Battle* (Random House, 2008).
 3. David Whiteford, *A Payroll to Meet : A Story of Greed, Corruption, and
 Football at SMU* (Univ of Nebraska Press, 2013).
-4. *Cheated : The UNC Scandal, the Education *
+4. Jay Smith and Mary Willingham, *Cheated : The UNC Scandal, the Education of
+Athletes, and the Future of Big-Time College Sports* (Potomac Books, 2015).
+
 
 
 All other readings will be available to the students electronically.
