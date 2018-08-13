@@ -12,17 +12,25 @@ Your grade in this course is based on four assignments:
    available [here](http://chadblack.net/499F2017/img/precis-memo.pdf).
 
     
-2. **Book Reviews.** (30%)
+2. **Book Responses.** (30%)
    
    Each student will write two form book review papers during the semester. The
    first will be on Anderson's *Carlisle vs. Army*. The second will be on
    Whitford's *A Payroll to Meet*. 
 
 
-3. **Solutions Paper**. (25%)
-
-
+3. **Solutions Paper and Presentation**. (25%)
+   
+   In small groups, students will pick an area of sport reform, write
+   a report on its history, problems, and possible solutions, and
+   present their solutions to the class.
 
 
 4. **UNC Scandal Paper.** (25%)
+   
+   The final grade for the semester will be to write an overview of the
+   UNC academic scandal utilizing a specific course document set.
+   
+
+
 

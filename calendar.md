@@ -13,92 +13,75 @@ title: calendar
 
 ---
 
-## Week 2: Early America I
+## Week 2: Thinking about Sport History
 
-### August 28 (Tuesday) -- Charting the Earliest Migrations
+### August 28 (Tuesday) -- 
 
 **READINGS:** 
 
-* Mann, Charles C. “1491” The Atlantic Monthly (March 2002).
-* Stix, Gary. “The Migration History of Humans: DNA Study Traces Human Origins across the Continents.” Scientific American Magazine (July 2008).
-
-### August 30 (Thursday) -- Maya
+### August 30 (Thursday) -- 
 
 **READINGS:**
 
-* Restall and Lane, Chapter 1.
-* Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.
-* Anonymous. “The Popul Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
 
 ---
 
-## Week 3: Early America II
+## Week 3: 
 
-### September 4 (Tuesday) -- Mexica
+### September 4 (Tuesday) 
 
 **READINGS:**
 
-### September 6 (Thursday) -- Inka
+### September 6 (Thursday) -- 
 
 **READINGS:**
 
 ---
 
-## Week 4: Old World Antecedents
+## Week 4: 
 
-### September 11 (Tuesday) -- Castile and Portugal
-
-**READINGS:**
-
-* Restall and Lane, Chapter 
-
-### September 13 (Thursday) -- Atlantic Africa
+### September 11 (Tuesday) 
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
+
+### September 13 (Thursday) 
+
+**READINGS:**
+
 
 
 ---
 
-## Week 5: The Early Encounter
+## Week 5:
 
-### September 18 (Tuesday) -- Caribbean Conquest
-
-**READINGS:**
-
-* Restall and Lane, Chapter 
-
-### September 20 (Thursday) -- The Critique
+### September 18 (Tuesday)
 
 **READINGS:**
 
-* Bartolomé de Las Casas, Brief Account of the Devastation of the Indies, excerpt.
+
+### September 20 (Thursday) 
+
+**READINGS:**
+
 
 
 ---
 
-## Week 6: Conquest of Native Empires
+## Week 6:
 
-### September 25 (Tuesday) -- Conquest Myths and Realities I
-
-**READINGS:**
-
-* Restall and Lane, Chapter
-* Matthew Restall, et. al., Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala (Cambridge: 2005): Chapter 3.
-* “The Spaniards’ Entry into Tenochtitlan,” The Mexico Reader, 97-104.
-
-### September 27 (Thursday) -- Conquest Myths and Realities II
+### September 25 (Tuesday)
 
 **READINGS:**
 
-* Lockhart and Otte, Letters and People of the Spanish Indies: 16th Century
-(Cambridge Univ. Press, 1976), selections.
-* 
+
+### September 27 (Thursday) 
+
+**READINGS:**
 
 ---
 
-## Week 7: Exam
+## Week 7:
 
 ### October 2 (Tuesday)
 
@@ -110,29 +93,26 @@ title: calendar
 
 ---
 
-## Week 8: La Otra Conquista
+## Week 8:
 
 ### October 9 (Tuesday)
 
 **READINGS:**
 
-* “Orders Given to the Twelve (1523)” in Mills, Taylor, and Graham Colonial Latin America: A Documentary History,” (SR Books, 2004): 59-64.
 
 ### October 11 (Thursday)
 
 **READINGS:**
 
-* J. Michael Francis. “In the Service of God, I Order these Temples of Idolatrous Worship Razed to the Ground”: Extirpation of Idolatry and the Search for the Santuario Grande of Iguaque (Columbia, 1595)” in Colonial Lives, pp. 39-53.
 
 ---
 
-## Week 9: From Cataclysm to Order
+## Week 9: 
 
 ### October 16 (Tuesday)
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
 
 
 ### October 18 (Thursday)
@@ -141,13 +121,12 @@ title: calendar
 
 ---
 
-## Week 10: Enslaved and Free Africans
+## Week 10:
 
 ### October 23 (Tuesday)
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
 
 
 ### October 25 (Thursday)
@@ -156,13 +135,12 @@ title: calendar
 
 ---
 
-## Week 11: Labor and Tribute
+## Week 11: 
 
 ### October 30 (Tuesday)
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
 
 
 ### November 1 (Thursday)
@@ -171,13 +149,12 @@ title: calendar
 
 ---
 
-## Week 12: Gender and Sexuality I
+## Week 12: 
 
 ### November 6 (Tuesday)
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
 
 
 ### November 8 (Thursday)
@@ -186,7 +163,7 @@ title: calendar
 
 ---
 
-## Week 13: Gender and Sexuality II 
+## Week 13:
 
 ### November 13 (Tuesday)
 
@@ -198,13 +175,12 @@ title: calendar
 
 ---
 
-## Week 14: From Kingdom to Colony
+## Week 14:
 
 ### November 20 (Tuesday)
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
 
 
 ### November 22 (Thursday)
@@ -215,13 +191,12 @@ None! Have a great Thanksgiving!
 
 ---
 
-## Week 15: Late Colonial Rebellions
+## Week 15:
 
 ### November 27 (Tuesday)
 
 **READINGS:**
 
-* Restall and Lane, Chapter 
 
 
 ### November 29 (Thursday)
@@ -230,7 +205,7 @@ None! Have a great Thanksgiving!
 
 ---
 
-## Week 16: Independence
+## Week 16:
 
 ### December 4 (Tuesday)
 
@@ -239,4 +214,4 @@ None! Have a great Thanksgiving!
 
 ---
 
-## Exam, December 11th (Tuesday) 8:00-10:00 am
+
