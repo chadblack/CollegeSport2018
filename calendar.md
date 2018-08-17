@@ -15,7 +15,7 @@ title: calendar
 
 ## Week 2: Thinking about Sport History
 
-### August 28 (Tuesday) 
+### August 28 (Tuesday) -- Ritual and Spectacle
 
 **READINGS:** 
 
@@ -25,7 +25,7 @@ title: calendar
 * Roland Barthes, "The World of Wrestling," *Mythologies* (New York: Hill and
 Wang, 1972).
 
-### August 30 (Thursday)
+### August 30 (Thursday) -- From Game to Sport
 
 **READINGS:**
 
@@ -38,7 +38,7 @@ University Press, 2004).
 
 ## Week 3: Early College Sports and Amateurism
 
-### September 4 (Tuesday) 
+### September 4 (Tuesday) -- Postwar Sporting Culture
 
 **READINGS:**
 
@@ -49,7 +49,7 @@ York Times, 1 Jan. 2015.
 * S.W. Pope, *Patriotic Games*, Introduction, Chapter 1. 
 
 
-### September 6 (Thursday) 
+### September 6 (Thursday) -- Institutionalizing College Sport
 
 **READINGS:**
 
@@ -61,46 +61,46 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 ## Week 4: From Scandal to Crisis
 
-### September 11 (Tuesday) 
+### September 11 (Tuesday) -- Fin de Siècle Scandals
 
 **READINGS:**
 
 * S.W. Pope, *Patriotic Games*, Chapters 
-* "Editorial," *Our Animal Friends*
 
 
-### September 13 (Thursday) 
+### September 13 (Thursday) -- Saving Football from Itself
 
 **READINGS:**
 
-
+* "Editorial," *Our Animal Friends*
 
 
 ---
 
 ## Week 5: Carlisle vs. Army 
 
-### September 18 (Tuesday)
+### September 18 (Tuesday) -- 
 
 **READINGS:**
 
 
-### September 20 (Thursday) 
+### September 20 (Thursday) -- 1920s and 1930s
 
 **READINGS:**
 
+**REACTION PAPER 1 DUE**
 
 
 ---
 
 ## Week 6: Towards the Modern NCAA
 
-### September 25 (Tuesday)
+### September 25 (Tuesday) -- A New University
 
 **READINGS:**
 
 
-### September 27 (Thursday) 
+### September 27 (Thursday) -- Reform in the 1940s
 
 **READINGS:**
 
@@ -108,24 +108,24 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 ## Week 7: A Changing Landscape
 
-### October 2 (Tuesday)
+### October 2 (Tuesday) -- Welcome to the Big Time
 
 **READINGS:**
 
-### October 4 (Thursday)
+### October 4 (Thursday) -- Not a thing.
 
 **FALL BREAK!!!**
 
 ---
 
-## Week 8: Race and College Sport
+## Week 8: 
 
-### October 9 (Tuesday)
+### October 9 (Tuesday) -- Race and the 1950s and 1960s
 
 **READINGS:**
 
 
-### October 11 (Thursday)
+### October 11 (Thursday) -- The New Plantation? 
 
 **READINGS:**
 
@@ -134,73 +134,71 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 ## Week 9: Gender and College Sport
 
-### October 16 (Tuesday)
+### October 16 (Tuesday) -- The Challenge of Title IX
 
 **READINGS:**
 
 
 
-### October 18 (Thursday)
-
-**READINGS:**
-
----
-
-## Week 10: The Business of Amateurism 
-
-### October 23 (Tuesday)
-
-**READINGS:**
-
-
-
-### October 25 (Thursday) 
+### October 18 (Thursday) -- Equity in Sport
 
 **READINGS:**
 
 ---
 
-## Week 11: Media
+## Week 10: The Business of Amateurism I
 
-### October 30 (Tuesday)
+### October 23 (Tuesday) -- Discussion of *A Payroll to Meet*
+
+**READINGS:**
+
+* Finish *A Payroll to Meet*
+
+### October 25 (Thursday) --  The Knight Commission
+
+**READINGS:**
+
+**REACTION PAPER 2** DUE.
+
+---
+
+## Week 11: The Business of Amateurism II
+
+### October 30 (Tuesday) -- Media and College Sport
 
 **READINGS:**
 
 
 
-### November 1 (Thursday)
+### November 1 (Thursday) -- Pay to Play
 
 **READINGS:**
 
 ---
 
-## Week 12: 
+## Week 12:  No Class -- Group Meetings and Research 
+
+I will be in London at a conference. 
 
 ### November 6 (Tuesday)
 
-**READINGS:**
-
-
-
 ### November 8 (Thursday)
 
+---
+
+## Week 13: Health, Sex, Safety
+
+### November 13 (Tuesday) -- 
+
+**READINGS:**
+
+### November 15 (Thursday) -- 
+
 **READINGS:**
 
 ---
 
-## Week 13:
-
-### November 13 (Tuesday)
-
-**READINGS:**
-
-### November 15 (Thursday)
-
-**READINGS:**
-
----
-
-## Week 14:
+## Week 14: The Role of Sport in Colleges
 
 ### November 20 (Tuesday)
 
@@ -208,7 +206,7 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 
 
-### November 22 (Thursday)
+### November 22 (Thursday) -- Thanksgiving
 
 **READINGS:**
 
@@ -216,15 +214,12 @@ None! Have a great Thanksgiving!
 
 ---
 
-## Week 15:
+## Week 15: Group Presentations
 
-### November 27 (Tuesday)
-
-**READINGS:**
+### November 27 (Tuesday) -- Groups I-III
 
 
-
-### November 29 (Thursday)
+### November 29 (Thursday) -- Groups IV-VI
 
 **READINGS:**
 
@@ -232,11 +227,10 @@ None! Have a great Thanksgiving!
 
 ## Week 16:
 
-### December 4 (Tuesday)
-
-**READINGS:**
+### December 4 (Tuesday) -- Wrapup
 
 
 ---
+
 
 
