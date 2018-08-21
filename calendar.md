@@ -46,7 +46,7 @@ University Press, 2004).
 York Times, 1 Jan. 2015.
 (http://opinionator.blogs.nytimes.com/2015/01/01/how-the-civil-war-created-college-football/) 
 
-* S.W. Pope, *Patriotic Games*, Introduction, Chapter 1. 
+* S.W. Pope, *Patriotic Games*, Introduction, Part I.
 
 
 ### September 6 (Thursday) -- Institutionalizing College Sport
@@ -65,28 +65,33 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 **READINGS:**
 
-* S.W. Pope, *Patriotic Games*, Chapters 
-
+* S.W. Pope, *Patriotic Games*, Chapters 3 and 5.
 
 ### September 13 (Thursday) -- Saving Football from Itself
 
 **READINGS:**
 
-* "Editorial," *Our Animal Friends*
+* "Editorial," *Our Animal Friends*, 1906.
+* S.W. Pope, *Patriotic Games*, Chapter 7.
+
 
 
 ---
 
 ## Week 5: Carlisle vs. Army 
 
-### September 18 (Tuesday) -- 
+### September 18 (Tuesday) -- Book Discussion
 
 **READINGS:**
+
+* Carlisle vs. Army 
 
 
 ### September 20 (Thursday) -- 1920s and 1930s
 
 **READINGS:**
+
+* None.
 
 **REACTION PAPER 1 DUE**
 
@@ -99,10 +104,15 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 **READINGS:**
 
+* Gregory Kaliss, *Men's College Athletics and the Politics of Racial
+Equality*, pp 41-73.
+
 
 ### September 27 (Thursday) -- Reform in the 1940s
 
 **READINGS:**
+
+* Ronald L. Smith, *Pay for Play*, pp. 88-99.
 
 ---
 
@@ -124,11 +134,15 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 **READINGS:**
 
+* Kaliss, pp. 74-137.
+
 
 ### October 11 (Thursday) -- The New Plantation? 
 
 **READINGS:**
 
+* Billy Hawkins, *The New Plantation: Black Athletes, college Sports, and
+Predominantly White NCAA Institutions*, Chapters 2 and 4.
 
 ---
 
@@ -137,6 +151,8 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 ### October 16 (Tuesday) -- The Challenge of Title IX
 
 **READINGS:**
+
+* Title XIX document set.
 
 
 
