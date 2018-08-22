@@ -21,15 +21,16 @@ Your grade in this course is based on four assignments:
 
 3. **Solutions Paper and Presentation**. (25%)
    
-   In small groups, students will pick an area of sport reform, write
-   a report on its history, problems, and possible solutions, and
+   In small groups, students will pick an area of sport reform,
+   summarize its history, problems, and possible solutions, and
    present their solutions to the class.
 
 
 4. **UNC Scandal Paper.** (25%)
    
-   The final grade for the semester will be to write an overview of the
-   UNC academic scandal utilizing a specific course document set.
+   The final grade for the semester will be to write an response to the
+   UNC academic scandal utilizing a specific course document set and the
+   book *Cheated*.
    
 
 
