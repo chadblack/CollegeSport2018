@@ -122,6 +122,9 @@ Equality*, pp 41-73.
 
 **READINGS:**
 
+* Taylor Branch, ["How the Myth of the Student-Athlete was
+Born."](http://deadspin.com/how-the-myth-of-the-ncaa-student-athlete-was-born-1524282374)
+
 ### October 4 (Thursday) -- Not a thing.
 
 **FALL BREAK!!!**
@@ -160,6 +163,13 @@ Predominantly White NCAA Institutions*, Chapters 2 and 4.
 
 **READINGS:**
 
+* Smith, *Pay for Play*, 141-150.
+
+* Don Sabo and Janie Victoria Ward, "Wherefore Art Thou Feminisms?
+Feminist Activist, Academic Feminisms, and Women's Sports Advocacy,"
+*Scholar and Feminist Online* 4(2006)
+(http://sfonline.barnard.edu/sport/sabo_ward_01.htm)
+
 ---
 
 ## Week 10: The Business of Amateurism I
@@ -174,6 +184,8 @@ Predominantly White NCAA Institutions*, Chapters 2 and 4.
 
 **READINGS:**
 
+* None.
+
 **REACTION PAPER 2** DUE.
 
 ---
@@ -182,13 +194,17 @@ Predominantly White NCAA Institutions*, Chapters 2 and 4.
 
 ### October 30 (Tuesday) -- Media and College Sport
 
-**READINGS:**
+Watch in-class *The Business of Amateurs*
 
 
 
 ### November 1 (Thursday) -- Pay to Play
 
 **READINGS:**
+
+* George Dohrmann, "Pay for Play," [Sports
+Illustrated](https://www.si.com/vault/2011/11/07/106127622/pay-for-play),
+7 nov 2011.
 
 ---
 
@@ -208,18 +224,28 @@ I will be in London at a conference.
 
 **READINGS:**
 
+* "Women's Hockey Grows Bigger, Faster, and Dire," 18 December 2015, [New
+York
+Times](https://www.nytimes.com/2015/12/20/sports/hockey/concussions-plague-womens-hockey-as-stars-are-sidelined.html)
+
+* HBO Real Sports, "Post-college medical care"
+
 ### November 15 (Thursday) -- 
 
+
 **READINGS:**
+
+* TBD.
+
+
 
 ---
 
-## Week 14: The Role of Sport in Colleges
+## Week 14: Group Work
 
 ### November 20 (Tuesday)
 
-**READINGS:**
-
+Group meetings with Dr. Black.
 
 
 ### November 22 (Thursday) -- Thanksgiving
@@ -236,8 +262,6 @@ None! Have a great Thanksgiving!
 
 
 ### November 29 (Thursday) -- Groups IV-VI
-
-**READINGS:**
 
 ---
 
