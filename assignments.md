@@ -9,7 +9,7 @@ Your grade in this course is based on four assignments:
    
    Each week, students must write a research memo for an assigned reading,
    marked in the syllabus. Instructions for how to write a research memo are
-   available [here](http://chadblack.net/499F2017/img/precis-memo.pdf).
+   available [here](http://chadblack.net/CollegeSport2018/images/precis.pdf).
 
     
 2. **Book Responses.** (30%)
