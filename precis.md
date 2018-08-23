@@ -43,6 +43,7 @@ http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sa
 
 The full memorandum extends and extrapolates on the précis by summarizing
 the remaining information in the mnemonic tool **THOMAS**.[^2]
+
 **T** -- what is the **topic**? (This should be covered by the précis.)
 
 **H** -- what **historiography** debates is the book or article engaging?
