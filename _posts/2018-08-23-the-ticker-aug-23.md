@@ -37,5 +37,18 @@ a number of scandals to get us started.
    at the University of Maryland following the death of Jordan McNair has
    put the Terrapin's coaching staff under scrutiny.
 
-
+5. [Urban
+   Meyer](https://www.usatoday.com/story/sports/ncaaf/bigten/2018/08/22/ohio-state-suspends-urban-meyer-investigation/1018477002/)
+   has been suspended for three games, and the rest of pre-season
+   training, as a result of failing to report domestic abuse by one of his
+   assistant coaches. Zach Smith was reported to the police (and even
+   arrested) for domestic abuse nine times while coaching at OSU, but
+   Meyer and the University's AD refused to act against him. Meyer then
+   lied about this to the press this summer, forcing the Board of Trustees
+   to take disciplinary action. The Board also released a [23-page
+   report](https://www.landgrantholyland.com/2018/8/23/17757500/ohio-state-urban-meyer-report-independent-investigation-findings)
+   on their investigation, and resulting suspension, which has been
+   [critiqued
+   already](https://www.usatoday.com/story/sports/columnist/brennan/2018/08/22/urban-meyer-remains-ohio-state-coach-loses-moral-high-ground-domestic-assault/1065039002/)
+   by some in the press.
 
