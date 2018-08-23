@@ -36,16 +36,13 @@ is to point out the ways that people commonly establish their
 belief systems in order to jolt the awareness of the reader into considering
 how their own belief system may the product of such methods
 and to consider what Peirce calls "the method of science" as a progressive
-alternative to the other three.^[Source for this example–
+alternative to the other three.[^1][Source for this example–
 http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click.html]
 
 ## memorandum
 
 The full memorandum extends and extrapolates on the précis by summarizing
-the remaining information in the mnemonic tool **THOMAS**.^[Thanks to
-Danna Agmon for sharing the THOMAS approach
-[here](https://drive.google.com/file/d/1hunJKCBwzELxmZJb2oaM1W5aGqorasZQ/view)]
-
+the remaining information in the mnemonic tool **THOMAS**.[^2]
 **T** -- what is the **topic**? (This should be covered by the précis.)
 
 **H** -- what **historiography** debates is the book or article engaging?
@@ -63,3 +60,11 @@ extrapolation of point 3 in the précis.
 
 All told, the full memorandum should be one to two pages, single spaced.
 We're not looking for lots of writing, as much as concise understanding.
+
+[^1]:Source for this example–
+http://oregonstate.edu/instruct/phl201/modules/rhetoricalprecis/sample/peirce_sample_precis_click.html
+
+[^2]: Thanks to
+Danna Agmon for sharing the THOMAS approach
+[here](https://drive.google.com/file/d/1hunJKCBwzELxmZJb2oaM1W5aGqorasZQ/view)
+
