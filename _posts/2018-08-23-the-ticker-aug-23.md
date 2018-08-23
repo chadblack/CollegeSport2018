@@ -2,8 +2,8 @@
 layout: post
 title: "The Ticker (Aug 23)"
 date: 2018-08-23 10:42:00 -0400
-categories: scandal, football, wrestling, sex, violence, health,
-            financial, player-pay
+categories: scandal football wrestling sex violence health
+            financial player-pay
 ---
 
 Over the course of the semester, we will be keeping track of college sport
