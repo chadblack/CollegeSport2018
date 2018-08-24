@@ -6,7 +6,7 @@ date: 2018-08-24 10:42:00 -0400
 
 The Ticker continues, a day later...
 
-6. <span style="font-color:red">New allegations that the former [Atheletic
+6. <span style="color:red">New allegations that the former [Atheletic
    Director](http://www.baltimoresun.com/sports/terps/tracking-the-terps/bs-sp-anderson-diamondback-lawyer-0823-story.html)
    of the University of Maryland hire an attorney with Athletic Department
    funds to represent two players accused of sexual assault. AD Kevin Anderson
