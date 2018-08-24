@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ticker (Aug 23)"
+title: "The Ticker (Aug 24)"
 date: 2018-08-24 10:42:00 -0400
 ---
 
