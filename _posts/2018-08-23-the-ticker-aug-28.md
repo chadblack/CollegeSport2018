@@ -1,10 +1,24 @@
 ---
 layout: post
-title: "The Ticker (Aug 24)"
-date: 2018-08-24 10:42:00 -0400
+title: "The Ticker (Aug 28)"
+date: 2018-08-28 15:42:00 -0400
 ---
 
 The Ticker continues, a day later...
+7. <span style="color:red">Mississippi State University has [suspended
+   Quarterback Nick
+   Fitzgerald](https://bleacherreport.com/articles/2792890-nick-fitzgerald-suspended-for-mississippi-states-opener-vs-stephen-f-austin)
+   for the opening game against Stephen F. Austin. Fitzgerald's suspension
+   is the result of a violation of team rules from March 2018.
+
+8. Santino Marchio, a linebacker who transferred from Texas A&M to
+   Arizona, has [alleged recruiting violations by Assitant Coach Bradley
+   Dale
+   Peveto](https://collegefootballtalk.nbcsports.com/2018/08/21/former-texas-am-linebacker-alleges-recruiting-practice-violations-by-jimbo-fishers-staff/).
+   Marchio claims that Peveto provided him cash to entertain unofficial
+   recruits on two weekends last Spring. 
+
+
 6. <span style="color:red">New allegations that the former [Athletic
    Director](http://www.baltimoresun.com/sports/terps/tracking-the-terps/bs-sp-anderson-diamondback-lawyer-0823-story.html)
    of the University of Maryland hire an attorney with Athletic Department
