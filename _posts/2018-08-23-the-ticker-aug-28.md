@@ -4,7 +4,10 @@ title: "The Ticker (Aug 28)"
 date: 2018-08-28 15:42:00 -0400
 ---
 
-The Ticker continues, a day later...
+The Ticker continues. Opening weekend on the college football season is in
+a few days, and we have a few more entries...
+
+
 7. <span style="color:red">Mississippi State University has [suspended
    Quarterback Nick
    Fitzgerald](https://bleacherreport.com/articles/2792890-nick-fitzgerald-suspended-for-mississippi-states-opener-vs-stephen-f-austin)
