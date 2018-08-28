@@ -12,14 +12,14 @@ a few days, and we have a few more entries...
    Quarterback Nick
    Fitzgerald](https://bleacherreport.com/articles/2792890-nick-fitzgerald-suspended-for-mississippi-states-opener-vs-stephen-f-austin)
    for the opening game against Stephen F. Austin. Fitzgerald's suspension
-   is the result of a violation of team rules from March 2018.
+   is the result of a violation of team rules from March 2018.</span>
 
-8. Santino Marchio, a linebacker who transferred from Texas A&M to
+8. <span style="color:red">Santino Marchio, a linebacker who transferred from Texas A&M to
    Arizona, has [alleged recruiting violations by Assitant Coach Bradley
    Dale
    Peveto](https://collegefootballtalk.nbcsports.com/2018/08/21/former-texas-am-linebacker-alleges-recruiting-practice-violations-by-jimbo-fishers-staff/).
    Marchio claims that Peveto provided him cash to entertain unofficial
-   recruits on two weekends last Spring. 
+   recruits on two weekends last Spring.</span>
 
 
 6. <span style="color:red">New allegations that the former [Athletic
