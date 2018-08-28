@@ -22,7 +22,7 @@ a few days, and we have a few more entries...
    recruits on two weekends last Spring.</span>
 
 
-6. <span style="color:red">New allegations that the former [Athletic
+6. New allegations that the former [Athletic
    Director](http://www.baltimoresun.com/sports/terps/tracking-the-terps/bs-sp-anderson-diamondback-lawyer-0823-story.html)
    of the University of Maryland hire an attorney with Athletic Department
    funds to represent two players accused of sexual assault. AD Kevin Anderson
