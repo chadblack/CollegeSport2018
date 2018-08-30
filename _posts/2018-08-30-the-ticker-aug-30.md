@@ -4,9 +4,8 @@ title: "The Ticker (Aug 30)"
 date: 2018-08-30 15:12:00 -0400
 ---
 
-<ol reversed>
 
-<li> <span style="color:red">UPDATE: [Urban
+@. <span style="color:red">UPDATE: [Urban
    Meyer](https://www.usatoday.com/story/sports/ncaaf/bigten/2018/08/22/ohio-state-suspends-urban-meyer-investigation/1018477002/)
    has been suspended for three games, and the rest of pre-season
    training, as a result of failing to report domestic abuse by one of his
@@ -22,7 +21,7 @@ date: 2018-08-30 15:12:00 -0400
    by some in the press. On August 30th, [a member of The OSU Board of
    Trustees
    resigned](https://www.nytimes.com/2018/08/30/sports/ohio-state-trustee-resigns-urban-meyer.html) to protest the lenience of Urban Meyer's punishment
-   following the Zach Smith revelations.</li>
+   following the Zach Smith revelations.
 
 
 @. <span style="color:red">The NCAA announced today that it had
@@ -84,7 +83,6 @@ date: 2018-08-30 15:12:00 -0400
    failing to prevent the routine sexual abuse of wrestlers by a team
    doctor at Ohio State University, where he was a coach in the 1990s.
 
-</ol>
 
 
 
