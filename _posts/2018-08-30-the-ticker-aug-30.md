@@ -4,8 +4,9 @@ title: "The Ticker (Aug 30)"
 date: 2018-08-30 15:12:00 -0400
 ---
 
+{: reversed="reversed"}
 
-@. <span style="color:red">UPDATE: [Urban
+1. <span style="color:red">UPDATE: [Urban
    Meyer](https://www.usatoday.com/story/sports/ncaaf/bigten/2018/08/22/ohio-state-suspends-urban-meyer-investigation/1018477002/)
    has been suspended for three games, and the rest of pre-season
    training, as a result of failing to report domestic abuse by one of his
@@ -24,7 +25,7 @@ date: 2018-08-30 15:12:00 -0400
    following the Zach Smith revelations.
 
 
-@. <span style="color:red">The NCAA announced today that it had
+1. <span style="color:red">The NCAA announced today that it had
    dropped its [investigation into
    MSU](https://www.nytimes.com/2018/08/30/sports/ncaa-michigan-state-nassar.html)
    over Larry Nassar's abuse of gymnasts. According to the *New York
@@ -33,7 +34,7 @@ date: 2018-08-30 15:12:00 -0400
    is the same logic the Association used to absolved UNC in its paper
    class scandal.</span>
 
-@. <span style="color:read">UPDATE: Marchiol has been [let go from
+1. <span style="color:read">UPDATE: Marchiol has been [let go from
    Arizona's team](https://www.usatoday.com/story/sports/ncaaf/pac12/2018/08/27/santino-marchiol-dismissed-arizona-after-video-racist-term/1114260002/) after video surfaced of Marchiol referring to his
    former Texas A&M teammates with a racial slur.  Santino Marchiol, a linebacker who transferred from Texas A&M to
    Arizona, has [alleged recruiting violations by Assitant Coach Bradley
@@ -43,26 +44,26 @@ date: 2018-08-30 15:12:00 -0400
    recruits on two weekends last Spring.</span>
 
 
-@. Mississippi State University has [suspended
+1. Mississippi State University has [suspended
    Quarterback Nick
    Fitzgerald](https://bleacherreport.com/articles/2792890-nick-fitzgerald-suspended-for-mississippi-states-opener-vs-stephen-f-austin)
    for the opening game against Stephen F. Austin. Fitzgerald's suspension
    is the result of a violation of team rules from March 2018.
 
 
-@. New allegations that the former [Athletic
+1. New allegations that the former [Athletic
    Director](http://www.baltimoresun.com/sports/terps/tracking-the-terps/bs-sp-anderson-diamondback-lawyer-0823-story.html)
    of the University of Maryland hire an attorney with Athletic Department
    funds to represent two players accused of sexual assault. AD Kevin Anderson
    was told to stop by the school, but did not. Not and NCAA rules violation,
    but a problem for the University.
 
-@. [Reports of a toxic
+1. [Reports of a toxic
    culture](https://www.cbssports.com/college-football/news/maryland-football-athletic-staffers-placed-on-leave-amid-report-of-harmful-culture/)
    at the University of Maryland following the death of Jordan McNair has
    put the Terrapin's coaching staff under scrutiny.
 
-@. [Thirteen UNC-CH
+1. [Thirteen UNC-CH
    athletes](https://www.sbnation.com/college-football/2018/8/6/17597834/north-carolina-football-suspensions-players)
    were suspended for selling shoes issued to the team by Nike. The athletes received suspensions of between 2 and
    3 games. [UNC and
@@ -72,13 +73,13 @@ date: 2018-08-30 15:12:00 -0400
    individual contracts with Nike for their teams to exclusively wear Nike
    apparel. 
 
-@. [UNC-CH football coach Larry
+1. [UNC-CH football coach Larry
    Fedora](https://www.washingtonpost.com/news/early-lead/wp/2018/07/18/unc-coach-larry-fedora-criticized-after-questioning-footballs-link-with-cte/?noredirect=on&utm_term=.0bbc2abb4f2d)
    made comments questioning the link between CTE and football. He also
    claimed that football was under attack in the US, and that the US would
    be weaker as a society without it.
 
-@. [Representative Jim
+1. [Representative Jim
    Jordan](https://www.rollingstone.com/politics/politics-news/jim-jordan-ohio-state-700578/),
    failing to prevent the routine sexual abuse of wrestlers by a team
    doctor at Ohio State University, where he was a coach in the 1990s.
