@@ -32,18 +32,21 @@ date: 2018-08-30 15:12:00 -0400
    is the same logic the Association used to absolved UNC in its paper
    class scandal.</span>
 
+8. <span style="color:read">UPDATE: Marchiol has been [let go from
+   Arizona's team](https://www.usatoday.com/story/sports/ncaaf/pac12/2018/08/27/santino-marchiol-dismissed-arizona-after-video-racist-term/1114260002/) after video surfaced of Marchiol referring to his
+   former Texas A&M teammates with a racial slur.  Santino Marchiol, a linebacker who transferred from Texas A&M to
+   Arizona, has [alleged recruiting violations by Assitant Coach Bradley
+   Dale
+   Peveto](https://collegefootballtalk.nbcsports.com/2018/08/21/former-texas-am-linebacker-alleges-recruiting-practice-violations-by-jimbo-fishers-staff/).
+   Marchio claims that Peveto provided him cash to entertain unofficial
+   recruits on two weekends last Spring.</span>
+
+
 7. Mississippi State University has [suspended
    Quarterback Nick
    Fitzgerald](https://bleacherreport.com/articles/2792890-nick-fitzgerald-suspended-for-mississippi-states-opener-vs-stephen-f-austin)
    for the opening game against Stephen F. Austin. Fitzgerald's suspension
    is the result of a violation of team rules from March 2018.
-
-8. Santino Marchio, a linebacker who transferred from Texas A&M to
-   Arizona, has [alleged recruiting violations by Assitant Coach Bradley
-   Dale
-   Peveto](https://collegefootballtalk.nbcsports.com/2018/08/21/former-texas-am-linebacker-alleges-recruiting-practice-violations-by-jimbo-fishers-staff/).
-   Marchio claims that Peveto provided him cash to entertain unofficial
-   recruits on two weekends last Spring.
 
 
 6. New allegations that the former [Athletic
