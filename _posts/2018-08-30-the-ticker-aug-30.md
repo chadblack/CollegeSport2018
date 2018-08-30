@@ -4,6 +4,25 @@ title: "The Ticker (Aug 30)"
 date: 2018-08-30 15:12:00 -0400
 ---
 
+5. <span style="color:red">UPDATE: [Urban
+   Meyer](https://www.usatoday.com/story/sports/ncaaf/bigten/2018/08/22/ohio-state-suspends-urban-meyer-investigation/1018477002/)
+   has been suspended for three games, and the rest of pre-season
+   training, as a result of failing to report domestic abuse by one of his
+   assistant coaches. Zach Smith was reported to the police (and even
+   arrested) for domestic abuse nine times while coaching at OSU, but
+   Meyer and the University's AD refused to act against him. Meyer then
+   lied about this to the press this summer, forcing the Board of Trustees
+   to take disciplinary action. The Board also released a [23-page
+   report](https://www.landgrantholyland.com/2018/8/23/17757500/ohio-state-urban-meyer-report-independent-investigation-findings)
+   on their investigation, and resulting suspension, which has been
+   [critiqued
+   already](https://www.usatoday.com/story/sports/columnist/brennan/2018/08/22/urban-meyer-remains-ohio-state-coach-loses-moral-high-ground-domestic-assault/1065039002/)
+   by some in the press. On August 30th, [a member of The OSU Board of
+   Trustees
+   resigned](https://www.nytimes.com/2018/08/30/sports/ohio-state-trustee-resigns-urban-meyer.html) to protest the lenience of Urban Meyer's punishment
+   following the Zach Smith revelations.
+
+
 9. <span style="color:red">The NCAA announced today that it had
    dropped its [investigation into
    MSU](https://www.nytimes.com/2018/08/30/sports/ncaa-michigan-state-nassar.html)
@@ -19,12 +38,12 @@ date: 2018-08-30 15:12:00 -0400
    for the opening game against Stephen F. Austin. Fitzgerald's suspension
    is the result of a violation of team rules from March 2018.
 
-8. <span style="color:red">Santino Marchio, a linebacker who transferred from Texas A&M to
+8. Santino Marchio, a linebacker who transferred from Texas A&M to
    Arizona, has [alleged recruiting violations by Assitant Coach Bradley
    Dale
    Peveto](https://collegefootballtalk.nbcsports.com/2018/08/21/former-texas-am-linebacker-alleges-recruiting-practice-violations-by-jimbo-fishers-staff/).
    Marchio claims that Peveto provided him cash to entertain unofficial
-   recruits on two weekends last Spring.</span>
+   recruits on two weekends last Spring.
 
 
 6. New allegations that the former [Athletic
@@ -33,21 +52,6 @@ date: 2018-08-30 15:12:00 -0400
    funds to represent two players accused of sexual assault. AD Kevin Anderson
    was told to stop by the school, but did not. Not and NCAA rules violation,
    but a problem for the University.
-
-5. [Urban
-   Meyer](https://www.usatoday.com/story/sports/ncaaf/bigten/2018/08/22/ohio-state-suspends-urban-meyer-investigation/1018477002/)
-   has been suspended for three games, and the rest of pre-season
-   training, as a result of failing to report domestic abuse by one of his
-   assistant coaches. Zach Smith was reported to the police (and even
-   arrested) for domestic abuse nine times while coaching at OSU, but
-   Meyer and the University's AD refused to act against him. Meyer then
-   lied about this to the press this summer, forcing the Board of Trustees
-   to take disciplinary action. The Board also released a [23-page
-   report](https://www.landgrantholyland.com/2018/8/23/17757500/ohio-state-urban-meyer-report-independent-investigation-findings)
-   on their investigation, and resulting suspension, which has been
-   [critiqued
-   already](https://www.usatoday.com/story/sports/columnist/brennan/2018/08/22/urban-meyer-remains-ohio-state-coach-loses-moral-high-ground-domestic-assault/1065039002/)
-   by some in the press.
 
 4. [Reports of a toxic
    culture](https://www.cbssports.com/college-football/news/maryland-football-athletic-staffers-placed-on-leave-amid-report-of-harmful-culture/)
