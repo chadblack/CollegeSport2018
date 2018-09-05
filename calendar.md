@@ -44,7 +44,7 @@ University Press, 2004).
 
 * Amanda Brickell Bellows, "How the Civil War Created College Football," New
 York Times, 1 Jan. 2015.
-(http://opinionator.blogs.nytimes.com/2015/01/01/how-the-civil-war-created-college-football/) 
+(http://opinionator.blogs.nytimes.com/2015/01/01/how-the-civil-war-created-college-football/) -- **write a précis on this one!!**
 
 * S.W. Pope, *Patriotic Games*, Introduction, Part I.
 
