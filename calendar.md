@@ -65,13 +65,13 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 
 **READINGS:**
 
-* S.W. Pope, *Patriotic Games*, Chapters 3 and 5.
+* S.W. Pope, *Patriotic Games*, Chapters 3 and 5. **Memo on Chapter 5.**
 
 ### September 13 (Thursday) -- Saving Football from Itself
 
 **READINGS:**
 
-* "Editorial," *Our Animal Friends*, 1906.
+* "Editorial," *Our Animal Friends*, 1906. **Précis**
 * S.W. Pope, *Patriotic Games*, Chapter 7.
 
 
@@ -105,7 +105,7 @@ Together: Unity and Diversity in American Culture*. Edited by Carl J. Guarneri.
 **READINGS:**
 
 * Gregory Kaliss, *Men's College Athletics and the Politics of Racial
-Equality*, pp 41-73.
+Equality*, pp 41-73. **Memo**
 
 
 ### September 27 (Thursday) -- Reform in the 1940s
@@ -124,6 +124,7 @@ Equality*, pp 41-73.
 
 * Taylor Branch, ["How the Myth of the Student-Athlete was
 Born."](http://deadspin.com/how-the-myth-of-the-ncaa-student-athlete-was-born-1524282374)
+**Précis**.
 
 ### October 4 (Thursday) -- Not a thing.
 
@@ -137,7 +138,7 @@ Born."](http://deadspin.com/how-the-myth-of-the-ncaa-student-athlete-was-born-15
 
 **READINGS:**
 
-* Kaliss, pp. 74-137.
+* Kaliss, pp. 74-137. **Memo.**
 
 
 ### October 11 (Thursday) -- The New Plantation? 
@@ -163,7 +164,7 @@ Predominantly White NCAA Institutions*, Chapters 2 and 4.
 
 **READINGS:**
 
-* Smith, *Pay for Play*, 141-150.
+* Smith, *Pay for Play*, 141-150. **Memo.**
 
 * Don Sabo and Janie Victoria Ward, "Wherefore Art Thou Feminisms?
 Feminist Activist, Academic Feminisms, and Women's Sports Advocacy,"
