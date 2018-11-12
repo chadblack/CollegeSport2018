@@ -7,7 +7,7 @@ title: syllabus
 
 History 373  
 TR 2:10-3:25  
-Strong Hall, Room 2015  
+Strong Hall, Room 105  
 Fall 2018  
 
 
