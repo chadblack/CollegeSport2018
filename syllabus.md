@@ -60,6 +60,12 @@ manner with appropriate documentation.
 **Attendance:** Attendance at all class sessions is mandatory. If you will not be able to attend
 class, please contact me ahead of time.
 
+**Plagiarism:** Plagiarism occurs when someone knowingly or unknowingly
+presents another person’s words or ideas as his or her own. Any work turned
+in for this class must meet University standards for academic honesty. Any
+students unsure about how to apply these rules are urged to consult with me
+prior to turning in any written work.
+
 **Deadlines:** Assignments must be turned to the instructor no later than the
 end of class on the day they are due, or at some other specified time
 established by the professor. Late papers will not be accepted
